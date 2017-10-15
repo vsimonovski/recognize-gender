@@ -9,7 +9,7 @@ Small user form that can recognize gender based on name value.
 
 ## Technologies
 
-React.js, Recognize.io API
+React.js, [genderize.io](https://genderize.io/) API
 
 ## Build Setup
 
