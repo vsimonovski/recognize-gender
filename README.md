@@ -5,7 +5,7 @@ Small user form that can recognize gender based on name value.
 
 
 ## Demo
-![]()
+![](https://raw.githubusercontent.com/vsimonovski/recognize-gender/master/Demo.gif)
 
 ## Technologies
 
