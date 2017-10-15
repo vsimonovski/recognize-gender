@@ -1,0 +1,41 @@
+.card {
+    box-shadow: 0 0.5rem 5rem rgba(0, 0, 0, 0.4);
+    height: 400px;
+    width: 300px;
+    margin: 0 auto;
+    background: #fff;
+    border-top: 5px solid #e74c3c;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    padding: 2rem;
+    &__name {
+        border: none;
+        border-bottom: 1px solid #e74c3c;
+    }
+
+    &__label {
+        font-size: 1.2rem;
+        align-self: flex-start;
+    }
+
+    &__body {
+        width: 21rem;
+        padding-top: 2rem;
+    }
+
+    &__icons {
+        margin-top: 2rem;
+        margin-right: 2rem;
+    }
+
+    .active {
+        fill: #e74c3c;
+    }
+}
+
+.icon_active {
+    color: #7b00ff;
+}
